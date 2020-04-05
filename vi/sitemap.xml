@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://thaild.github.io/vi/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thaild.github.io/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://thaild.github.io/ja/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://thaild.github.io/vi/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://thaild.github.io/vi/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thaild.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://thaild.github.io/ja/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://thaild.github.io/vi/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://thaild.github.io/vi/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thaild.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://thaild.github.io/ja/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://thaild.github.io/vi/tags/"
+                />
+  </url>
+  
+</urlset>
